@@ -1,4 +1,4 @@
-<?php // Don't include this opening PHP tag
+<?php //* Don't include this opening PHP tag
 
 //* Add this code in front-page.php file
 add_action( 'wp_enqueue_scripts', 'wap_front_page_enqueue_scripts' );
